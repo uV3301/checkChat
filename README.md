@@ -1,5 +1,15 @@
 # Socket.io Chat Application
 
+## Getting started
+
+In your dir folder
+
+```
+npm install // yarn install
+```
+
+(to install all modules)
+
 ---
 
 Developed by
